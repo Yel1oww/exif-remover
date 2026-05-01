@@ -2,7 +2,6 @@
 --------------------------------------------------------------------------------
 PROGRAM: Exif Remover
 AUTHOR:  Yel1oww
-VERSION: 1.0
 PURPOSE: A privacy-focused tool that "sanitizes" images by stripping all 
          metadata, leaving only the raw pixel data to prevent OSINT tracking.
 --------------------------------------------------------------------------------

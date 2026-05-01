@@ -1,4 +1,4 @@
-# Exif Remover v1.0
+# Exif Remover
 
 **Exif Remover** is a privacy-focused forensics tool designed to "sanitize" image files by stripping away all hidden metadata. By recreating the image using only raw pixel data, it ensures that sensitive information like GPS coordinates, camera serial numbers, and timestamps are permanently removed to prevent OSINT tracking.
 
